@@ -1,3 +1,3 @@
 # ami
-assignment 6 repo for csye6225
+assignment6 repo for csye6225
 github actions to build an ami
